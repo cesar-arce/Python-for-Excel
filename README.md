@@ -95,7 +95,6 @@ Are there any course requirements or prerequisites?
 A desktop computer (Windows or Mac) capable of storing and running Python/Anaconda. The course will walk you through installing the necessary free software.
 An internet connection capable of streaming HD Videos.
 A working installation of Microsoft Excel.
-Mac users are welcome. Please note that 10%-15% of the course content (UDFs) work on Windows only!
 Willingness to code and work with Python.
 Who this course is for:
 Data Scientist and Finance Professionals seeking to use Excel as Frontend and Python as analytical Backend in their Projects.
