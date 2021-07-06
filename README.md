@@ -1,4 +1,4 @@
-# Python_for_Excel
+# Python for Excel
 Integrate Excel and Python and get the best of two Worlds! Python Beginners welcome. Use Pandas, Seaborn &amp; co. in Excel
 
 Excel vs. Python - what is the best tool for Data Science, Business and Finance?
